@@ -7,6 +7,8 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
+// https://github.com/bellguard/pemlan-b-rayhan_rafael_
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
@@ -14,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author BoostMyTool
+ * @author bellguard
  */
 public class MainFrame extends javax.swing.JFrame {
 
