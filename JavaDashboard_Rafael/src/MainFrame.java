@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**https://github.com/bellguard/pemlan-b-rayhan_rafael_
+/**https://github.com/bellguard/pemlan-b-rayhan_rafael_rimba
  *
  * @author rafae
  */
