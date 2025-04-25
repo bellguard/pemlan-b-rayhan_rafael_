@@ -7,7 +7,7 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-// https://github.com/bellguard/pemlan-b-rayhan_rafael_
+// https://github.com/bellguard/pemlan-b-rayhan_rafael_rimba
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
